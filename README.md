@@ -7,8 +7,12 @@
 * 附件支持文本，图片，视频的批量发送
 # Demo
 我来演示一下如何使用这个模块
-![image1](./images/Snipaste_2020-07-04_19-07-03.png)
+
+![image](https://github.com/DaoiestFire/easy_smtp_sender/blob/master/images/Snipaste_2020-07-04_19-07-03.png)
+
 如上所示的导入了类以后，就可以使用with关键字来方便的使用它。上面的这段代码会发送包含一批附件的邮件
 下图展示了我正确的收到了邮件：
-![image2](./iamges/Snipaste_2020-07-04_19-12-21.png)
-![image3](./iamges/Snipaste_2020-07-04_19-12-38.png)
+
+![image](https://github.com/DaoiestFire/easy_smtp_sender/blob/master/images/Snipaste_2020-07-04_19-12-21.png)
+
+![image](https://github.com/DaoiestFire/easy_smtp_sender/blob/master/images/Snipaste_2020-07-04_19-12-38.png)
