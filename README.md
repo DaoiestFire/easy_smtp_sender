@@ -18,10 +18,6 @@
 
 ![image](https://github.com/DaoiestFire/easy_smtp_sender/blob/master/images/Snipaste_2020-07-04_19-12-38.png)
 
-当然一个附件也是支持的：
-
-![image](https://github.com/DaoiestFire/easy_smtp_sender/blob/master/images/Snipaste_2020-07-04_19-09-12.png)
-
 每个附件发送一次：打印出发送成功，当然你可以选择静默操作。见代码接口部分
 
 ![image](https://github.com/DaoiestFire/easy_smtp_sender/blob/master/images/Snipaste_2020-07-04_19-09-38.png)
